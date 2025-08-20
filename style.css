@@ -1,0 +1,8 @@
+body {
+      background-color: yellow;
+      font-family: Comic Sans MS, cursive;
+      text-align: center;
+    }
+    h1 { color: red; }
+    .box { border: 5px dotted blue; padding: 10px; margin: 10px; }
+    .rainbow { color: green; background: pink; } 
